@@ -1,10 +1,10 @@
 # Gerenciador de Usuários
 
-Esta aplicação é um sistema de gerenciamento de usuários desenvolvido em Spring Boot e PostgreSQL. Ela permite criar, ler, atualizar e excluir usuários, e é projetada para fornecer uma base sólida para sistemas que necessitam de um banco de dados relacional robusto.
+Esta aplicação é um sistema de gerenciamento de usuários desenvolvido em Spring Boot e PostgreSQL. Ela permite criar ler usuários, e é projetada para fornecer uma base sólida para sistemas que necessitam de um banco de dados relacional.
 
 ## Funcionalidades
 
-- **CRUD de Usuários:** Criação, leitura, atualização e exclusão de registros de usuários.
+- **CRUD de Usuários:** Criação e leitura de registros de usuários.
 - **Integração com PostgreSQL:** Armazenamento e recuperação de dados utilizando PostgreSQL.
 - **Interface Web:** API RESTful para interação com a aplicação.
 
@@ -15,6 +15,7 @@ Esta aplicação é um sistema de gerenciamento de usuários desenvolvido em Spr
 - **JPA/Hibernate:** ORM para mapeamento objeto-relacional.
 - **Docker:** Plataforma para criar, executar e gerenciar contêineres.
 - **Maven:** Gerenciador de dependências e construção do projeto.
+- **Postman:** Plataforma para realizar requisições HTTP na API RESTful.
 
 ## Pré-requisitos
 
